@@ -1,0 +1,16 @@
+[{
+            "name": "EmperorManga",
+            "lang": "en",
+            "id": "8365281203902473824",
+            "baseUrl": "https://emperormanga.com",
+            "versionId": 1,
+            "hasCloudflare": 1
+        },
+        {
+            "name": "EmperorManga",
+            "lang": "es",
+            "id": "9284756123057402938",
+            "baseUrl": "https://emperormanga.com",
+            "versionId": 1,
+            "hasCloudflare": 1
+        }]
